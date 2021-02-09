@@ -1,5 +1,7 @@
 # CsaUnit2Project
 
+By: Sai Kolla, Anirudh Nagasumudra, Joshua Chon, Sharvin Manjrekar
+
 PROJECT
 
 Parses through the HTML tags of a Wikipedia page using BeautifulSoup
