@@ -1,6 +1,7 @@
 # CsaUnit2Project
 
 PROJECT
+
 Parses through the HTML tags of a Wikipedia page using BeautifulSoup
 Looks for “tr”, “th” and “td” tags in the HTML and grabs the data within those tags
 Runs that information through Pandas in order to make a CSV file
@@ -10,6 +11,7 @@ Displays all information within the CSV file
 DEPENDENCIES
 
 beautifulsoup 4: -pip install beautifulsoup4
+
 pandas: -pip install pandas
 
 
